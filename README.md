@@ -29,3 +29,15 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/14.png)
 ![slide](Images/15.png)
 ![slide](Images/16.png)
+
+## Dimensionality reduction overview
+![slide](Images/17.png)
+![slide](Images/18.png)
+![slide](Images/19.png)
+![slide](Images/20.png)
+![slide](Images/21.png)
+![slide](Images/22.png)
+![slide](Images/23.png)
+![slide](Images/24.png)
+![slide](Images/25.png)
+![slide](Images/26.png)
