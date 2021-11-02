@@ -10,7 +10,7 @@ This repo was created while following along with LinkedIn Learning certification
 * [Data Mining](https://www.linkedin.com/learning/search?keywords=Data%20Mining)
 
 # Key Slides:
-## The CRISP-DM data mining model
+## The CRISP-DM data mining model (CRoss Industry Standard Process for Data Mining)
 ![slide](Images/1.png)
 ![slide](Images/2.png)
 ![slide](Images/3.png)
@@ -18,3 +18,14 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/5.png)
 ![slide](Images/6.png)
 ![slide](Images/7.png)
+
+## Validating results
+![slide](Images/8.png)
+![slide](Images/9.png)
+![slide](Images/10.png)
+![slide](Images/11.png)
+![slide](Images/12.png)
+![slide](Images/13.png)
+![slide](Images/14.png)
+![slide](Images/15.png)
+![slide](Images/16.png)
