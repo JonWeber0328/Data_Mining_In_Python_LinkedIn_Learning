@@ -56,3 +56,9 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/29.png)
 ![slide](Images/30.png)
 ![slide](Images/31.png)
+
+## Classification
+![slide](Images/32.png)
+![slide](Images/33.png)
+![slide](Images/34.png)
+![slide](Images/35.png)
