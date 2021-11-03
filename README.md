@@ -10,15 +10,15 @@ This repo was created while following along with LinkedIn Learning certification
 * [Data Mining](https://www.linkedin.com/learning/search?keywords=Data%20Mining)
 
 # Chapters
-* Dimentionality Reduction (A)
-* Clustering (B)
-* Classification (C)
-* Association Analysis (D)
-* Time-Series Mining (E)
-* Text Mining (F)
+* [Dimentionality Reduction (A)](#Dimentionality "Goto **Dimentionality Reduction**")
+* [Clustering (B)](#Clustering "Goto **Clustering**")
+* [Classification (C)](#Classification "Goto **Classification**")
+* [Association Analysis (D)](#Association "Goto **Association Analysis**")
+* [Time-Series Mining (E)](#Time-Series "Goto **Time-Series Mining**")
+* [Text Mining (F)](#Text "Goto **Text Mining**")
 
 # Key Slides:
-## The CRISP-DM data mining model (CRoss Industry Standard Process for Data Mining)
+## **The CRISP-DM data mining model (CRoss Industry Standard Process for Data Mining)**
 ![slide](Images/1.png)
 ![slide](Images/2.png)
 ![slide](Images/3.png)
@@ -27,7 +27,7 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/6.png)
 ![slide](Images/7.png)
 
-## Validating results
+## **Validating Results**
 ![slide](Images/8.png)
 ![slide](Images/9.png)
 ![slide](Images/10.png)
@@ -38,7 +38,7 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/15.png)
 ![slide](Images/16.png)
 
-## Dimensionality reduction overview
+## **Dimensionality Reduction**
 ![slide](Images/17.png)
 ![slide](Images/18.png)
 ![slide](Images/19.png)
@@ -50,15 +50,24 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/25.png)
 ![slide](Images/26.png)
 
-## Clustering
+## **Clustering**
 ![slide](Images/27.png)
 ![slide](Images/28.png)
 ![slide](Images/29.png)
 ![slide](Images/30.png)
 ![slide](Images/31.png)
 
-## Classification
+## **Classification**
 ![slide](Images/32.png)
 ![slide](Images/33.png)
 ![slide](Images/34.png)
 ![slide](Images/35.png)
+
+## **Association Analysis**
+![slide](Images/36.png)
+![slide](Images/37.png)
+![slide](Images/38.png)
+![slide](Images/39.png)
+![slide](Images/40.png)
+![slide](Images/41.png)
+![slide](Images/42.png)
