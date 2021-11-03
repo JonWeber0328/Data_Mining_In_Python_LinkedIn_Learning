@@ -10,7 +10,7 @@ This repo was created while following along with LinkedIn Learning certification
 * [Data Mining](https://www.linkedin.com/learning/search?keywords=Data%20Mining)
 
 # Chapters
-* [Dimentionality Reduction (A)](#Dimentionality "Goto **Dimentionality Reduction**")
+* [Dimentionality Reduction (A)](#Dimentionality Reduction"Goto **Dimentionality Reduction**")
 * [Clustering (B)](#Clustering "Goto **Clustering**")
 * [Classification (C)](#Classification "Goto **Classification**")
 * [Association Analysis (D)](#Association "Goto **Association Analysis**")
