@@ -9,6 +9,14 @@ This repo was created while following along with LinkedIn Learning certification
 * [Python (Programming Language)](https://www.linkedin.com/learning/search?keywords=Python%20(Programming%20Language))
 * [Data Mining](https://www.linkedin.com/learning/search?keywords=Data%20Mining)
 
+# Chapters
+* Dimentionality Reduction (A)
+* Clustering (B)
+* Classification (C)
+* Association Analysis (D)
+* Time-Series Mining (E)
+* Text Mining (F)
+
 # Key Slides:
 ## The CRISP-DM data mining model (CRoss Industry Standard Process for Data Mining)
 ![slide](Images/1.png)
