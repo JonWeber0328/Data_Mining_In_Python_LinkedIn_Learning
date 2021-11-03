@@ -10,12 +10,12 @@ This repo was created while following along with LinkedIn Learning certification
 * [Data Mining](https://www.linkedin.com/learning/search?keywords=Data%20Mining)
 
 # Chapters
-* [Dimentionality Reduction (A)](#Dimentionality Reduction"Goto **Dimentionality Reduction**")
+* [Dimentionality Reduction (A)](#Dimentionality_Reduction "Goto **Dimentionality_Reduction**")
 * [Clustering (B)](#Clustering "Goto **Clustering**")
 * [Classification (C)](#Classification "Goto **Classification**")
-* [Association Analysis (D)](#Association "Goto **Association Analysis**")
-* [Time-Series Mining (E)](#Time-Series "Goto **Time-Series Mining**")
-* [Text Mining (F)](#Text "Goto **Text Mining**")
+* [Association Analysis (D)](#Association_Analysis "Goto **Association_Analysis**")
+* [Time-Series Mining (E)](#Time-Series_Mining "Goto **Time-Series_Mining**")
+* [Text Mining (F)](#Text_Mining "Goto **Text_Mining**")
 
 # Key Slides:
 ## **The CRISP-DM data mining model (CRoss Industry Standard Process for Data Mining)**
@@ -38,7 +38,7 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/15.png)
 ![slide](Images/16.png)
 
-## **Dimensionality Reduction**
+## **Dimensionality_Reduction**
 ![slide](Images/17.png)
 ![slide](Images/18.png)
 ![slide](Images/19.png)
@@ -63,7 +63,7 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/34.png)
 ![slide](Images/35.png)
 
-## **Association Analysis**
+## **Association_Analysis**
 ![slide](Images/36.png)
 ![slide](Images/37.png)
 ![slide](Images/38.png)
@@ -71,3 +71,7 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/40.png)
 ![slide](Images/41.png)
 ![slide](Images/42.png)
+
+## **Time-Series_Mining**
+
+## **Text_Mining**
