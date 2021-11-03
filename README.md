@@ -73,5 +73,10 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/42.png)
 
 ## **Time-Series_Mining**
+![slide](Images/43.png)
+![slide](Images/44.png)
+![slide](Images/45.png)
+![slide](Images/46.png)
+![slide](Images/47.png)
 
 ## **Text_Mining**
