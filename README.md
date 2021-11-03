@@ -41,3 +41,10 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/24.png)
 ![slide](Images/25.png)
 ![slide](Images/26.png)
+
+## Clustering
+![slide](Images/27.png)
+![slide](Images/28.png)
+![slide](Images/29.png)
+![slide](Images/30.png)
+![slide](Images/31.png)
