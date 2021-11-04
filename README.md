@@ -80,3 +80,9 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/47.png)
 
 ## **Text_Mining**
+![slide](Images/48.png)
+![slide](Images/49.png)
+![slide](Images/50.png)
+![slide](Images/51.png)
+![slide](Images/52.png)
+![slide](Images/53.png)
