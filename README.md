@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Data Mining in Python - LinkedIn Learning
 
 This repo was created while following along with LinkedIn Learning certification program [Data Science Foundations: Data Mining in Python](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-python/the-crisp-dm-data-mining-model?autoAdvance=true&autoSkip=true&autoplay=true&resume=false), taught by [Barton Poulson](https://www.linkedin.com/learning/instructors/barton-poulson).
@@ -29,7 +30,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -46,7 +47,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -64,7 +65,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -77,7 +78,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -89,7 +90,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -104,7 +105,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -117,7 +118,7 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -131,6 +132,6 @@ This repo was created while following along with LinkedIn Learning certification
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
