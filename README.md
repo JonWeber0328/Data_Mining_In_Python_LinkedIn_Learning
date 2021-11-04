@@ -27,6 +27,12 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/6.png)
 ![slide](Images/7.png)
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## **Validating Results**
 ![slide](Images/8.png)
 ![slide](Images/9.png)
@@ -37,6 +43,12 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/14.png)
 ![slide](Images/15.png)
 ![slide](Images/16.png)
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ## **Dimensionality_Reduction**
 ![slide](Images/17.png)
@@ -50,6 +62,12 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/25.png)
 ![slide](Images/26.png)
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## **Clustering**
 ![slide](Images/27.png)
 ![slide](Images/28.png)
@@ -57,11 +75,23 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/30.png)
 ![slide](Images/31.png)
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## **Classification**
 ![slide](Images/32.png)
 ![slide](Images/33.png)
 ![slide](Images/34.png)
 ![slide](Images/35.png)
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ## **Association_Analysis**
 ![slide](Images/36.png)
@@ -72,12 +102,24 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/41.png)
 ![slide](Images/42.png)
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## **Time-Series_Mining**
 ![slide](Images/43.png)
 ![slide](Images/44.png)
 ![slide](Images/45.png)
 ![slide](Images/46.png)
 ![slide](Images/47.png)
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ## **Text_Mining**
 ![slide](Images/48.png)
@@ -86,3 +128,9 @@ This repo was created while following along with LinkedIn Learning certification
 ![slide](Images/51.png)
 ![slide](Images/52.png)
 ![slide](Images/53.png)
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
